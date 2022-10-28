@@ -15,3 +15,11 @@ Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
 All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
 
 DO NOT USE IN PRODUCTION.
+
+Hey Cupidhack, hope you're good. Wanted to ask if you help protocols out with development as well on a contractual basis or you're fully committed at this stage?
+
+Cheers,
+Nikolay Shabak
+Product Manager, https://clip.finance
+https://github.com/shabak
+https://twitter.com/nikolayshabak
